@@ -1,0 +1,8 @@
+#include<stdio.h>
+#define SZ 5
+int main(){
+ int i,j,key;
+ int s[];
+ printf("Enter the numbers in the array: \n");
+ for(i = 0; i < SZ; i++){
+  scanf("%d",s[i]);
