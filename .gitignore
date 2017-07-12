@@ -1,3 +1,10 @@
+# Random
+*.txt
+*.c~
+*.c#
+*.cpp~
+*.cpp#
+
 # Prerequisites
 *.d
 
